@@ -1,4 +1,4 @@
-Infinitiv,Perfekt (ich),Übersetzung
+Infitiv,Perfekt (ich),Übersetzung
 herunterladen,habe heruntergeladen,to download
 hochladen,habe hochgeladen,to upload
 ersetzen,habe ersetzt,to replace
@@ -13,33 +13,37 @@ trennen,habe getrennt,to split
 verbinden,habe verbunden,to join
 verwenden,habe verwendet,to use
 rücksetzen,habe rückgesetzt,to reset (1)
-ausschalten,habe ausgeschalt,to switch off
+ausschalten,habe ausgeschalt,to switch off (electronic device)
 anchalten,habe angeschalt,to switch on
-abschliessen,habe abgeschlossen,to close
+schliessen,habe geschlossen,to close (window)
 öffnen,habe geöffnet,to open
-durchlaufen,habe durchgelaufen,to execute (1)
+durchlaufen,habe durchgelaufen,to execute (tests)
 enthalten,habe enthalten,to contain/include
-verändern,habe verändert,to change
-kopieren,habe kopiert,to copy
-schneiden,habe geschnitten,to cut
-aufräumen,habe aufgeräumt,to clean
-absagen,habe abgesagt,to cancel
+verändern,habe verändert,to modify/alter
+bearbeiten,habe bearbeitet,to edit (file)
+kopieren,habe kopiert,to copy (file)
+ausschneiden,habe ausgeschnitten,to cut (file)
+einfügen,habe eingefügt,to paste
+aufräumen,habe aufgeräumt,to sort out/clean
+absagen,habe abgesagt,to cancel (meeting)
+abbrechen,habe abgebrochen,to cancel (dialog)
 verstecken,habe versteckt,to hide
 verfügen,habe verfügt,to consist
 bestimmen,habe bestimmt,to determine
 berechnen,habe berechnet,to calculate
 drucken,habe gedruckt,to print
 exportieren,habe exportiert,to export
-ausführen,habe ausgeführt,to execute (2)
+ausführen,habe ausgeführt,to execute (file)
 zeigen,habe gezeigt,to show
 zurücksetzen,habe zurückgesetzt,to reset (2)
-speichern,habe gespeichert,to save
+speichern,habe gespeichert,to save (file)
 wiederherstellen,habe wiederherstelt,to restore
 zuordnen,etwas ist zugeordnet,to assign
 veranstalten,habe veranstaltet,to admin
-benennen,habe benannt,to rename
+benennen,habe benannt,to name
+umbenennen,habe umbennant,to rename
 verteilen,habe verteilt,to distribute
-ansteigen,bin angestiegen,to increase (1)
+ansteigen,bin angestiegen,to increase (trend)
 verringern,habe verringert,to decrease
 weitermachen,habe weitergemacht,to continue
 erweitern,habe erweitert,to expand
@@ -69,7 +73,7 @@ feuern,habe gefeuert,to fire
 anwenden,habe angewendet,"to apply (feature, migration...)"
 entwickeln,habe entwickelt,to develop
 bezeichnen,habe bezeichnet,to denominate/identify
-verschieben,habe verschoben,to postpone
+verschieben,habe verschoben,to postpone/move (file)
 diferenzieren,habe diferenziert,to distinguish
 integrieren,habe integriert,to integrate
 erkennen,habe erkannt,to recognize/discover
@@ -79,7 +83,7 @@ scheitern,habe gescheitert,to fail
 anfangen,habe angefangen,to start
 imitieren,habe imitiert,to fake
 begrenzen,habe begrenzt,to limit
-erreichen,habe erreicht,to accomplish
+schaffen,habe geschafft,to accomplish
 verbessern,habe verbessert,to improve
 behalten,habe behalten,to keep
 erhöhen,habe erhöht,to increase (2)
@@ -100,3 +104,48 @@ wiederbenutzen,habe wiederbenutzt,to re-use
 kommentieren,habe kommentiert,to comment
 passen,habe gepasst,to fit/suit
 beheben,habe behoben,to fix (bug)
+herunterfahren,bin heruntergefahren,to switch off (computer)
+sperren,habe gesperrt,to block
+anmelden,habe angemeldet,to login
+abmelden,habe abgemeldet,to logout
+unterbrechen,habe unterbrochen,to interrupt
+berichtigen,habe berichtigt,to correct
+ermöglichen,habe ermöglicht,to make possible/enable
+vorgehen,bin vorgegangen,to proceed
+konvertieren,habe konvertiert,to convert/transform
+darstellen,habe dargestellt,to represent
+anhalten,habe angehalten,to stop/pause
+beenden,habe beendet,to end
+starten,habe gestartet,to start
+fortsetzen,habe forgesetzt,to resume
+auslösen,habe ausgelöst,to trigger
+messen,habe gemessen,to measure
+mitteilen,habe mitgeteilt,to share
+auflisten,habe aufgelistet,to list
+formatieren,habe formatiert,to format
+sortieren,habe sortiert,to sort
+herstellen,habe hergestellt,to produce (.tar file creation)
+wechseln,habe gewechselt,to change (folders)
+zählen,habe gezählt,to count
+navigieren,habe navigiert,to navigate (browser)
+festlegen,habe festgelegt,"to set (new password, file in background)"
+eingeben,habe eingegen,to input (form)
+vermuten,habe vermutet,to assume
+testen,habe getestet,to test
+abhängen,habe abgehängt,to depend
+auswählen,habe ausgewählt,to select
+freigeben,habe freigegeben,to unblock
+verknüpfen,habe verknüpft,to link/connect
+anheften,habe angeheftet,to stick in (sidebar)
+behandeln,habe behandelt,to handle
+einrichten,habe eingerichtet,to print (page)
+ignorieren,habe ignoriert,to ignore
+feststehen,habe festgestanden,to be certain
+gelingen,habe gelungen,to succeed
+bewilligen,habe bewilligt,to authorize
+schätzen,habe geschätzt,to appreciate
+bestätigen,habe bestätigt,to confirm
+reproduzieren,habe reproduziert,to reproduce
+übersteuern,habe übersteuert,to override
+ausprobieren,habe ausprobiert,to try
+leeren,habe geleert,to empty
